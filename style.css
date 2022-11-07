@@ -12,7 +12,7 @@ body{
   
   
   .nav1 a {
-    float: left;
+    /* float: left; */
     color: #adadad;
     text-align: center;
     padding: 10px 12px;
